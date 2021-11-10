@@ -2,7 +2,7 @@
 
 My shooter game shows how we can use the helpful resources from the arcade library. This game was made by reading and using arcade libraries examples. This game uses their images and sounds. I feel that this can be very helpful for a new user to lear the basics of the arcade library.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/aO1r5uqqjCg)
 
 # Development Environment
 
